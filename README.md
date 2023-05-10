@@ -10,7 +10,7 @@ User-right->(write uml)
 @enduml
 ## Overview
 Hier wird das allgemein Endprodukt diskutiert
-Hier können wir die Key-Idee beschreiben und vlt. unsere grobe Struktur erklären
+Hier können wir die Key-Idee beschreiben.
 ## Aufbau
-X^2^
+unsere grobe Struktur erklären
 
