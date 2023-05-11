@@ -13,3 +13,7 @@ Hier wird das allgemein Endprodukt diskutiert
 Hier können wir die Key-Idee beschreiben und vlt. unsere grobe Struktur erklären
 ## Aufbau
 Das Auto besteht aus 4-Rädern und zwei Motoren und noch vieles mehr. 
+
+
+https://github.com/SchroedingersBit/PfortGT-WRO/assets/93491768/8d83cc78-ea1a-42d7-afb6-1094846e82b7
+
