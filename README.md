@@ -11,3 +11,4 @@ Hier können wir die Key-Idee beschreiben und vlt. unsere grobe Struktur erklär
 Das Auto besteht aus 4-Rädern und zwei Motoren und noch vieles mehr. 
 ## Codes
 Hier gibt es Codes
+![Titelbild](https://github.com/SchroedingersBit/PfortGT-WRO/assets/93491768/4da14ece-0965-46c8-8422-13e2602e19ab)
