@@ -11,5 +11,5 @@ Hier können wir die Key-Idee beschreiben und vlt. unsere grobe Struktur erklär
 Das Auto besteht aus 4-Rädern und zwei Motoren und noch vieles mehr. 
 ## Codes
 
-$$\frac{1}{2}$$
+$$\frac{1}{2}*\int{1}$$
 
